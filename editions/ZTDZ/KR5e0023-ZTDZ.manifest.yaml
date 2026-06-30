@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5e0023/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5e0023/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上洞玄靈寶三十二天尊應號經
+  date: '2015-08-29 02:06:57.239291'
+  source:
+    repository: kanripo
+    path: KR5e0023
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5e0023_000-ZTDZ.yaml, hash: 'sha256:fc6e9f82b051677f00473a14776f8f6bceb46602f526654d9071e5d988a7b0ea'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5e0023_000-ZTDZ.markers.yaml, hash: 'sha256:557bad9e6ba14065420d2730b8cf92ff688cac326cc518ecd548b172e5c3285c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5e0023_SJB_000-240698a
+    span:
+    - body
+    - 0
+    - 5200
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:c845f1b849ec085506ec297d1e3161c1923ed392901e7e22aacf6c0fd10ddd7d
